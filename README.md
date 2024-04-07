@@ -1,4 +1,4 @@
-# HtmltoExeTemplate
+# HtmltoExeTemplate (Experimental)
  Package Godot Web Games into an executable form for distribution. 
  Works with latest Godot v4+ and v3+ and electron version.
 

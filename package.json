@@ -1,0 +1,13 @@
+{
+  "name": "Game-Name",
+  "version": "1.0.0",
+  "main": "main.js",
+  "icon": "favicon.ico",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager . Game-Name --platform=win32 --arch=x64 --overwrite --icon=favicon.ico --electron-version=29.2.0"
+  },
+  "devDependencies": {
+    "electron": "^29.2.0"
+  }
+}
